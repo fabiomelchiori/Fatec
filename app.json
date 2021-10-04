@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "P1FabioMelchiori",
-    "slug": "P1FabioMelchiori",
+    "name": "app-lembretes",
+    "slug": "app-lembretes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
